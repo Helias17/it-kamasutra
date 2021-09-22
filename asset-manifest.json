@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/it-kamasutra/static/css/main.1a30f35c.chunk.css",
+    "main.js": "/it-kamasutra/static/js/main.56ddf7e4.chunk.js",
+    "main.js.map": "/it-kamasutra/static/js/main.56ddf7e4.chunk.js.map",
+    "runtime-main.js": "/it-kamasutra/static/js/runtime-main.a4c7a4ab.js",
+    "runtime-main.js.map": "/it-kamasutra/static/js/runtime-main.a4c7a4ab.js.map",
+    "static/js/2.0e88cb1e.chunk.js": "/it-kamasutra/static/js/2.0e88cb1e.chunk.js",
+    "static/js/2.0e88cb1e.chunk.js.map": "/it-kamasutra/static/js/2.0e88cb1e.chunk.js.map",
+    "static/css/3.4f3d5390.chunk.css": "/it-kamasutra/static/css/3.4f3d5390.chunk.css",
+    "static/js/3.5c83e9bc.chunk.js": "/it-kamasutra/static/js/3.5c83e9bc.chunk.js",
+    "static/js/3.5c83e9bc.chunk.js.map": "/it-kamasutra/static/js/3.5c83e9bc.chunk.js.map",
+    "static/css/4.7d9a96a0.chunk.css": "/it-kamasutra/static/css/4.7d9a96a0.chunk.css",
+    "static/js/4.de1005c6.chunk.js": "/it-kamasutra/static/js/4.de1005c6.chunk.js",
+    "static/js/4.de1005c6.chunk.js.map": "/it-kamasutra/static/js/4.de1005c6.chunk.js.map",
+    "static/js/5.9c55483e.chunk.js": "/it-kamasutra/static/js/5.9c55483e.chunk.js",
+    "static/js/5.9c55483e.chunk.js.map": "/it-kamasutra/static/js/5.9c55483e.chunk.js.map",
+    "index.html": "/it-kamasutra/index.html",
+    "static/css/3.4f3d5390.chunk.css.map": "/it-kamasutra/static/css/3.4f3d5390.chunk.css.map",
+    "static/css/4.7d9a96a0.chunk.css.map": "/it-kamasutra/static/css/4.7d9a96a0.chunk.css.map",
+    "static/css/main.1a30f35c.chunk.css.map": "/it-kamasutra/static/css/main.1a30f35c.chunk.css.map",
+    "static/js/2.0e88cb1e.chunk.js.LICENSE.txt": "/it-kamasutra/static/js/2.0e88cb1e.chunk.js.LICENSE.txt",
+    "static/media/post.module.css": "/it-kamasutra/static/media/icon-like.f7fee4c8.svg",
+    "static/media/icon-logout.f8353254.svg": "/it-kamasutra/static/media/icon-logout.f8353254.svg",
+    "static/media/icon-user.png": "/it-kamasutra/static/media/icon-user.111881ef.png",
+    "static/media/loading.95bfa38c.gif": "/it-kamasutra/static/media/loading.95bfa38c.gif",
+    "static/media/logo.5d5ea35c.svg": "/it-kamasutra/static/media/logo.5d5ea35c.svg",
+    "static/media/party.0f7a33b3.jpg": "/it-kamasutra/static/media/party.0f7a33b3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4c7a4ab.js",
+    "static/js/2.0e88cb1e.chunk.js",
+    "static/css/main.1a30f35c.chunk.css",
+    "static/js/main.56ddf7e4.chunk.js"
+  ]
+}
